@@ -22,7 +22,7 @@ papers:
 competitions:
   - name: "The 5th place in the Visual Question Answering (VQA) Challenge 2018 in CVPR2018"
     members: "Mikihiro Tanaka, Atsuhiro Noguchi, <me>Kohei Uehara<me>, Lisa Kawai, Yoshitaka Ushiku, Tatsuya Harada"
-    link: "url"
+    link: "https://visualqa.org/challenge_2018.html"
 work_experience: 
   - name: "LINE Corporation, Machine Learning Engineer, Part time job"
     year: "2019.2.27 - 2019.4.30"
