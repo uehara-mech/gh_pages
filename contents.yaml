@@ -29,7 +29,7 @@ work_experience:
   - name: "Mercari, Inc. Machine Learning Engineer Internship"
     year: "2018.8.1 - 2018.8.31"
 invited_talks:
-  - name: "<me>Kohei Uehara<me>, Antonio Tejero-de-Pablos, Yoshitaka Ushiku and Tatsuya Harada"
+  - members: "<me>Kohei Uehara<me>, Antonio Tejero-de-Pablos, Yoshitaka Ushiku and Tatsuya Harada"
     title: "Visual Question Generation for Class Acquisition of Unknown Objects"
     year: "2019"
     conf: "PRMU"
