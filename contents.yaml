@@ -2,12 +2,12 @@ resume_title: "Kohei Uehara's Website"
 resume_name: "Kohei Uehara"
 about_me:
   about_me_abst: "Master student at the University of Tokyo"
-  about_me_desc: "I am a master student advised by Prof. Tatsuya Harada. My research interest focuses on machine learning across vision and language."
+  about_me_desc: "I am Kohei Uehara (上原 康平), a master student advised by Prof. Tatsuya Harada. My research interest focuses on machine learning across vision and language."
 education: 
   - organization: "Master’s student, Information Science and Technology, The University of Tokyo"
-    timeline: "2018 - Now"
+    timeline: "2018.4 - Now"
   - organization: "Undergraduate student, Mechano-Informatics, The University of Tokyo"
-    timeline: "2014 - 2018"
+    timeline: "2014.4 - 2018.3"
 papers: 
   - title: "Interactive Video Retrieval with Dialog"
     authors: "Sho Maeoki, <me>Kohei Uehara<me>, Tatsuya Harada"
